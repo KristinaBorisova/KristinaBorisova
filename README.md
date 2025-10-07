@@ -33,6 +33,18 @@
 
 ---
 
+### 💡 Featured Projects
+
+🟢 **[Glovo Order Automation System](https://github.com/KristinaBorisova/Glovo_DariVreme_Order_Automation)**  
+> Automates food delivery scheduling with Python, Glovo API, and GitHub Actions.  
+> Includes authentication, payload generation, and daily automation logic.
+
+🧠 **[Textual Analysis & Plagiarism Detection Tool](https://github.com/KristinaBorisova/Textual-Analysis-Tool)**  
+> NLP-based system that calculates text similarity using linguistic signatures.  
+> Built with Java, designed with MVC architecture and SOLID principles.
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -46,20 +58,8 @@
 
 ---
 
-### 💡 Featured Projects
-
-🟢 **[Glovo Order Automation System](https://github.com/KristinaBorisova/Glovo_DariVreme_Order_Automation)**  
-> Automates food delivery scheduling with Python, Glovo API, and GitHub Actions.  
-> Includes authentication, payload generation, and daily automation logic.
-
-🧠 **[Textual Analysis & Plagiarism Detection Tool](https://github.com/KristinaBorisova/Textual-Analysis-Tool)**  
-> NLP-based system that calculates text similarity using linguistic signatures.  
-> Built with Java, designed with MVC architecture and SOLID principles.
-
----
-
 ### 🌱 Currently Exploring
-- 🧩 LLM-based software architectures  
+- 🧩 LLM-based software architectures & agentic
 - 🤖 Generative AI for enterprise and conversational AI
 - 🚀 Building sustainable tech ventures with AI-centric tools 
 
