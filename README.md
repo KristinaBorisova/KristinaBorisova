@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="400"/> 
+  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="250"/> 
+    <h1> Hi there 👋,  I'm Kristina Borisova</h1>
 </div>
 
-<h1> Hi there 👋,  I'm Kristina Borisova</h1>
 <h3 align="center">🚀 Software Developer • Conversational AI Consultant • Tech Innovator</h3>
 
 <p align="center">
@@ -60,7 +60,6 @@
 
 ### 🌱 Currently Exploring
 - 🧩 LLM-based software architectures & agentic
-- 🤖 Generative AI for enterprise and conversational AI
 - 🚀 Building sustainable tech ventures with AI-centric tools 
 
 ---
@@ -92,9 +91,6 @@
 <p align="center">
   <i>“Code is easy to write, but impact is hard to design — I aim for both.”</i>
 </p>
-
-
-
 
 
 
