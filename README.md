@@ -44,7 +44,10 @@
 > Built with Java, designed with MVC architecture and SOLID principles.
 
 ---
-
+Some great resources to follow: 
+- https://learn-anything.xyz/
+- https://huggingface.co/docs
+----
 ### 📈 GitHub Stats
 
 <p align="center">
