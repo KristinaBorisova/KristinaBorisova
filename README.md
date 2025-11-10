@@ -49,6 +49,7 @@ Some great resources to follow:
 - https://huggingface.co/docs
 - https://seeing-theory.brown.edu/ - Visual introduction to Statistics and Probability concepts
 - Effective Java: https://dn721901.ca.archive.org/0/items/java_20230528/Joshua%20Bloch%20-%20Effective%20Java%20%283rd%29%20-%202018.pdf
+- https://www.geeksforgeeks.org/java/java-collection-tutorial/
 ----
 ### 📈 GitHub Stats
 
