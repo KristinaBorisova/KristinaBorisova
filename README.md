@@ -16,6 +16,7 @@
 
 ### 🧠 About Me
 
+- Curremtly - Freelance Developer 
 - 💼 **Technical Consultant at Deloitte** (AI & Data Division) — Building conversational & generative AI solutions focused on low-code platfrms like Cognigy 
 - 🧩 **Co-founder** at *Total Responses*, leveraging LLMs to analyze product feedback  
 - 💻 Ex–**VMware**, **Postbank**, and **Vola Software**  
@@ -51,15 +52,14 @@ Some great resources to follow:
 - Effective Java: https://dn721901.ca.archive.org/0/items/java_20230528/Joshua%20Bloch%20-%20Effective%20Java%20%283rd%29%20-%202018.pdf
 - https://www.geeksforgeeks.org/java/java-collection-tutorial/
 - Sharing ideas in a visual way: https://excalidraw.com/
+- Interesting non-tech Topics:
+-   https://www.cam.ac.uk/stories/five-ages-human-brain
 ----
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KristinaBorisova&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KristinaBorisova&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristinaBorisova&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
